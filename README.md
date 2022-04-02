@@ -1,6 +1,6 @@
 # COE528-Design-Project
 
-** Syed Abdul Wadood, Alireza Golband**
+** Syed Abdul Wadood, Alireza Golband, Uzair Ahmed**
 
 **Final Project Submission Deadline: Friday, July 24, 2020 at 11:30 PM**
 
